@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1638481619 source:c:\users\fabri\desktop\finelli.fabrizio.rsp.labi1g\recuperatorio\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"inputs.h"
+
+1638481606 c:\users\fabri\desktop\finelli.fabrizio.rsp.labi1g\recuperatorio\inputs.h
+
+1638481195 source:c:\users\fabri\desktop\finelli.fabrizio.rsp.labi1g\recuperatorio\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1638481120 c:\users\fabri\desktop\finelli.fabrizio.rsp.labi1g\recuperatorio\linkedlist.h
+
+1638488332 source:c:\users\fabri\desktop\finelli.fabrizio.rsp.labi1g\recuperatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"LinkedList.h"
+	"post.h"
+	"Controller.h"
+	"inputs.h"
+	"informes.h"
+
+1638484880 source:c:\users\fabri\desktop\finelli.fabrizio.rsp.labi1g\recuperatorio\informes.c
+	<stdlib.h>
+	<stdio.h>
+	"post.h"
+	"informes.h"
+
+1638488575 c:\users\fabri\desktop\finelli.fabrizio.rsp.labi1g\recuperatorio\post.h
+
+1638484734 c:\users\fabri\desktop\finelli.fabrizio.rsp.labi1g\recuperatorio\informes.h
+	"LinkedList.h"
+
+1638485027 source:c:\users\fabri\desktop\finelli.fabrizio.rsp.labi1g\recuperatorio\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"parser.h"
+	"post.h"
+
+1638488887 c:\users\fabri\desktop\finelli.fabrizio.rsp.labi1g\recuperatorio\parser.h
+
+1638487257 source:c:\users\fabri\desktop\finelli.fabrizio.rsp.labi1g\recuperatorio\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Controller.h"
+	"LinkedList.h"
+	"parser.h"
+	"inputs.h"
+	"post.h"
+
+1638488888 c:\users\fabri\desktop\finelli.fabrizio.rsp.labi1g\recuperatorio\controller.h
+	"post.h"
+	"LinkedList.h"
+
+1638487844 source:c:\users\fabri\desktop\finelli.fabrizio.rsp.labi1g\recuperatorio\post.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"post.h"
+	"inputs.h"
+	"LinkedList.h"
+
